@@ -1,0 +1,46 @@
+theme = "congo"
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+baseURL = "https://divyanshusheth.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Divyanshu Sheth"
+copyright = "©2021 Divyanshu Sheth"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[author]
+  name = "Divyanshu Sheth"
+  image = "profile_pic.jpg"
+  links = [
+      { email = "mailto:divyanshusheth1@gmail.com" },
+  #   { link = "https://divyanshusheth.com" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/" },
+  #   { dribbble = "https://dribbble.com/username" },
+      { facebook = "https://facebook.com/divyanshu.sheth" },
+  #   { foursquare = "https://foursquare.com/username" },
+      { github = "https://github.com/divyanshusheth" },
+  #   { gitlab = "https://gitlab.com/username" },
+      { instagram = "https://instagram.com/divyanshusheth" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+      { linkedin = "https://linkedin.com/in/divyanshusheth" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/divs3663" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+      { steam = "https://steamcommunity.com/id/divyanshusheth/" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { twitch = "https://twitch.tv/username" },
+      { twitter = "https://twitter.com/Divyanshu_Sheth" },
+  #   { youtube = "https://youtube.com/username" },
+  ]
